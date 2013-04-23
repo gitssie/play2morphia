@@ -5,7 +5,7 @@ Trying out play framework 2 while using morphia for mapping Java objects to/from
 where I am trying out different things with mongodb (via morphia). There will be none or very few examples 
 of using mongodb "as a user from views" instead, things will be tried out with unit testing at backend level.
 
-Hopefully at the end of this journey I master combo of morphia/mongodb much better than now, and this project serves as 
+Hopefully at the end of this journey I master combo of morphia/mongodb much better than now, and this project lives on as 
 good resource to others wanting to achieve the same.
 
 Getting started (From scratch)
@@ -20,9 +20,9 @@ Getting started (From scratch)
 1. Import project to eclipse workplace (File -> Import existing project into workspace -> Select project and OK)
 1. ...
 
-.. to be continued..
+.. todo ..
 
 Working methods
 ----------------
 
-.. to be continues ..
+.. todo ..
