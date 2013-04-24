@@ -8,6 +8,11 @@ of using mongodb "as a user from views" instead, things will be tried out with u
 Hopefully at the end of this journey I master combo of morphia/mongodb much better than now, and this project lives on as 
 good resource to others wanting to achieve the same.
 
+When to use MongoDB, why not MySQL ?
+------------------------------------
+
+.. todo ..
+
 Getting started (From scratch)
 ----------------
 
